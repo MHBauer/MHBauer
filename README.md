@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently looking for new position. Please check out [my work experience](https://mhbauer.com/2021/january/morgan-bauers-work-resume/)!
+
 <!--
 **MHBauer/MHBauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
