@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently looking for new position. Please check out [my work experience](https://mhbauer.com//)!
+Please check out [my website](https://mhbauer.com//)!
 
 <!--
 **MHBauer/MHBauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
