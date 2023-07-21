@@ -1,3 +1,7 @@
+# Currently seeking employment.
+
+## If you're seeing this message, I am still looking.
+
 ### Hi there 👋
 
 Please check out [my website](https://mhbauer.com//)!
