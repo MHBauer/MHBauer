@@ -1,6 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 Please check out [my website](https://mhbauer.com//)!
+
+[My information](https://mhbauer.com/resume/)
+
+[resume as a pdf at https://mhbauer.com/Morgan-Bauer-OpenSourceEngineer-resume.pdf](https://mhbauer.com/Morgan-Bauer-OpenSourceEngineer-resume.pdf)
 
 <!--
 **MHBauer/MHBauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
