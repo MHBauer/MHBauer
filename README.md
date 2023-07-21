@@ -2,6 +2,10 @@
 
 ## If you're seeing this message, I am still looking.
 
+[My information](https://mhbauer.com/resume/)
+
+[resume as a pdf at https://mhbauer.com/Morgan-Bauer-OpenSourceEngineer-resume.pdf](https://mhbauer.com/Morgan-Bauer-OpenSourceEngineer-resume.pdf)
+
 ### Hi there 👋
 
 Please check out [my website](https://mhbauer.com//)!
